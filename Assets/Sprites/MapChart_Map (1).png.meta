@@ -1,0 +1,343 @@
+fileFormatVersion: 2
+guid: 1ae65f3c6272ccb438b26106028904f2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline:
+    - - {x: 8.90625, y: 582.3828}
+      - {x: -104, y: 564.5}
+      - {x: -99.50903, y: 662.85425}
+      - {x: -110.127686, y: 665.7449}
+      - {x: -113.43408, y: 667.4751}
+      - {x: -114.84277, y: 666.0652}
+      - {x: -119.279785, y: 666.4912}
+      - {x: -121.173584, y: 669.2964}
+      - {x: -123.07031, y: 672.03735}
+      - {x: -126.01099, y: 674.9702}
+      - {x: -128.61572, y: 672.9104}
+      - {x: -128.56421, y: 669.9629}
+      - {x: -131.40771, y: 668.0249}
+      - {x: -136.23828, y: 668.3169}
+      - {x: -141.08984, y: 670.5762}
+      - {x: -146, y: 675.5}
+      - {x: -147, y: 675.5}
+      - {x: -147, y: 676.5}
+      - {x: -145, y: 676.5}
+      - {x: -145, y: 677.5}
+      - {x: -144, y: 677.5}
+      - {x: -144, y: 678.5}
+      - {x: -140, y: 678.5}
+      - {x: -141, y: 680.5}
+      - {x: -142, y: 680.5}
+      - {x: -142, y: 681.5}
+      - {x: -142, y: 682.5}
+      - {x: -138, y: 682.5}
+      - {x: -138, y: 683.5}
+      - {x: -136, y: 683.5}
+      - {x: -136, y: 684.5}
+      - {x: -135, y: 684.5}
+      - {x: -135, y: 685.5}
+      - {x: -134, y: 685.5}
+      - {x: -134, y: 686.5}
+      - {x: -134, y: 688.5}
+      - {x: -133, y: 688.5}
+      - {x: -133, y: 690.5}
+      - {x: -132, y: 690.5}
+      - {x: -132, y: 691.5}
+      - {x: -131, y: 691.5}
+      - {x: -128, y: 691.5}
+      - {x: -125, y: 694.5}
+      - {x: -122.92236, y: 697.5459}
+      - {x: -144.10034, y: 752.1633}
+      - {x: -142.39404, y: 895.9619}
+      - {x: 5.748535, y: 856.55444}
+      - {x: 39, y: 622.5}
+      - {x: 33, y: 601.5}
+    - - {x: -177, y: 579.5}
+      - {x: -204, y: 624.5}
+      - {x: -178, y: 699.5}
+      - {x: -137, y: 705.5}
+      - {x: -125, y: 697.5}
+      - {x: -125, y: 696.5}
+      - {x: -125, y: 694.5}
+      - {x: -126, y: 694.5}
+      - {x: -126, y: 693.5}
+      - {x: -128, y: 691.5}
+      - {x: -130, y: 690.5}
+      - {x: -131, y: 690.5}
+      - {x: -131, y: 689.5}
+      - {x: -132, y: 689.5}
+      - {x: -132, y: 687.5}
+      - {x: -133, y: 687.5}
+      - {x: -133, y: 685.5}
+      - {x: -134, y: 685.5}
+      - {x: -134, y: 684.5}
+      - {x: -135, y: 684.5}
+      - {x: -135, y: 682.5}
+      - {x: -138, y: 682.5}
+      - {x: -138, y: 681.5}
+      - {x: -140, y: 681.5}
+      - {x: -140, y: 680.5}
+      - {x: -139, y: 680.5}
+      - {x: -139, y: 678.5}
+      - {x: -140, y: 678.5}
+      - {x: -140, y: 677.5}
+      - {x: -143, y: 677.5}
+      - {x: -143, y: 676.5}
+      - {x: -145, y: 676.5}
+      - {x: -145, y: 674.5}
+      - {x: -143, y: 674.5}
+      - {x: -143, y: 673.5}
+      - {x: -141, y: 671.5}
+      - {x: -136, y: 668.5}
+      - {x: -134, y: 668.5}
+      - {x: -131, y: 668.5}
+      - {x: -130, y: 669.5}
+      - {x: -129, y: 672.5}
+      - {x: -126, y: 675.5}
+      - {x: -122, y: 670.5}
+      - {x: -119, y: 668.5}
+      - {x: -119, y: 666.5}
+      - {x: -115, y: 666.5}
+      - {x: -113, y: 667.5}
+      - {x: -110, y: 665.5}
+      - {x: -104, y: 661.5}
+      - {x: -109, y: 614.5}
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MapChart_Map (1)_60: -2084324468
+      MapChart_Map (1)_24: 51393390
+      MapChart_Map (1)_116: 1510129477
+      MapChart_Map (1)_35: -639935180
+      MapChart_Map (1)_1: 194086016
+      MapChart_Map (1)_77: 54068459
+      MapChart_Map (1)_0: -1374355126
+      MapChart_Map (1)_105: 612131014
+      MapChart_Map (1)_45: 1358828779
+      MapChart_Map (1)_37: 1870406598
+      MapChart_Map (1)_84: 94516999
+      MapChart_Map (1)_73: -989203023
+      MapChart_Map (1)_88: -1017752421
+      MapChart_Map (1)_66: -806059988
+      MapChart_Map (1)_17: -1130355931
+      MapChart_Map (1)_19: 746041904
+      MapChart_Map (1)_120: 140974183
+      MapChart_Map (1)_100: -1923386548
+      MapChart_Map (1)_106: 1048008542
+      MapChart_Map (1)_119: 1777462220
+      MapChart_Map (1)_39: 1888588971
+      MapChart_Map (1)_30: 1322195532
+      MapChart_Map (1)_49: -1906760043
+      MapChart_Map (1)_4: 1330857169
+      MapChart_Map (1)_43: 51231789
+      MapChart_Map (1)_78: -1984043020
+      MapChart_Map (1)_32: 2042542580
+      MapChart_Map (1)_54: 321262351
+      MapChart_Map (1)_47: 1570776312
+      MapChart_Map (1)_40: 1595592406
+      MapChart_Map (1)_53: -1228664514
+      MapChart_Map (1)_111: -1885972558
+      MapChart_Map (1)_65: -884321250
+      MapChart_Map (1)_55: 957910290
+      MapChart_Map (1)_81: -1011438507
+      MapChart_Map (1)_91: 1617942408
+      MapChart_Map (1)_75: 1425448710
+      MapChart_Map (1)_97: -1681323550
+      MapChart_Map (1)_46: 1796991777
+      MapChart_Map (1)_118: 1570389016
+      MapChart_Map (1)_44: -2116233293
+      MapChart_Map (1)_31: 1781590927
+      MapChart_Map (1)_38: 696348957
+      MapChart_Map (1)_109: 974272544
+      MapChart_Map (1)_15: -401974717
+      MapChart_Map (1)_52: 1686491777
+      MapChart_Map (1)_58: 1270877738
+      MapChart_Map (1)_69: -1182476797
+      MapChart_Map (1)_67: 1510048353
+      MapChart_Map (1)_76: 104036582
+      MapChart_Map (1)_114: 432345205
+      MapChart_Map (1)_41: -1492547285
+      MapChart_Map (1)_5: -1176304861
+      MapChart_Map (1)_14: 879024907
+      MapChart_Map (1)_87: -1871439314
+      MapChart_Map (1)_9: 803084011
+      MapChart_Map (1)_92: 1678190055
+      MapChart_Map (1)_57: -2125923321
+      MapChart_Map (1)_62: 340541849
+      MapChart_Map (1)_93: 1951683134
+      MapChart_Map (1)_115: 1350586496
+      MapChart_Map (1)_85: -1021736830
+      MapChart_Map (1)_89: -193602368
+      MapChart_Map (1)_68: 254965353
+      MapChart_Map (1)_86: -1090766515
+      MapChart_Map (1)_101: -819108432
+      MapChart_Map (1)_3: -238532573
+      MapChart_Map (1)_51: -27718271
+      MapChart_Map (1)_95: -493537202
+      MapChart_Map (1)_12: -715894885
+      MapChart_Map (1)_28: 1362654824
+      MapChart_Map (1)_82: 1389225399
+      MapChart_Map (1)_34: -527912093
+      MapChart_Map (1)_21: 486322504
+      MapChart_Map (1)_94: -15699655
+      MapChart_Map (1)_102: -1895790174
+      MapChart_Map (1)_63: -2061935164
+      MapChart_Map (1)_20: -1661390692
+      MapChart_Map (1)_22: -1219875042
+      MapChart_Map (1)_112: 1795695785
+      MapChart_Map (1)_98: 1731008217
+      MapChart_Map (1)_56: 394529925
+      MapChart_Map (1)_16: -1881293459
+      MapChart_Map (1)_2: 2041325988
+      MapChart_Map (1)_90: -613470241
+      MapChart_Map (1)_6: -633592804
+      MapChart_Map (1)_96: -1451320008
+      MapChart_Map (1)_110: -1648260154
+      MapChart_Map (1)_23: -653843539
+      MapChart_Map (1)_42: 1922224190
+      MapChart_Map (1)_72: 1149868810
+      MapChart_Map (1)_8: -780366635
+      MapChart_Map (1)_108: -1571661366
+      MapChart_Map (1)_83: -120413030
+      MapChart_Map (1)_13: 458779819
+      MapChart_Map (1)_103: -1778931453
+      MapChart_Map (1)_29: -1654638142
+      MapChart_Map (1)_61: -1930869574
+      MapChart_Map (1)_25: 1408308677
+      MapChart_Map (1)_59: -1424931745
+      MapChart_Map (1)_50: 2077536203
+      MapChart_Map (1)_26: -1222850314
+      MapChart_Map (1)_74: 336512172
+      MapChart_Map (1)_80: -242672808
+      MapChart_Map (1)_70: -1488654802
+      MapChart_Map (1)_117: -1546115685
+      MapChart_Map (1)_33: 286771769
+      MapChart_Map (1)_48: -1929751358
+      MapChart_Map (1)_27: 885283088
+      MapChart_Map (1)_71: 1267260365
+      MapChart_Map (1)_10: 1148398174
+      MapChart_Map (1)_18: 674386013
+      MapChart_Map (1)_99: 771061364
+      MapChart_Map (1)_79: 1259447231
+      MapChart_Map (1)_121: -2061998147
+      MapChart_Map (1)_104: 1997818207
+      MapChart_Map (1)_64: 1480911823
+      MapChart_Map (1)_107: 1484464246
+      MapChart_Map (1)_11: -2054588703
+      MapChart_Map (1)_113: 297894923
+      MapChart_Map (1)_36: -531880068
+      MapChart_Map (1)_7: -242250899
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
