@@ -6,7 +6,7 @@ public class VirusComponent : MonoBehaviour
 {
     static Color defaultColour = new Color(209,219,221);
     const int StartInfectionNumber = 10;
-    const float timestep = 0.05f;
+    const float timestep = 0.1f;
 
     public Country countryReference;
     public CountryComponent countryComponent;
@@ -18,7 +18,6 @@ public class VirusComponent : MonoBehaviour
     [SerializeField] int immune;
 
     int tick = 0;
-    bool stop = false;
 
     public Queue<int> infectedBuffer = new Queue<int>();
     SpriteRenderer renderer;
@@ -41,13 +40,16 @@ public class VirusComponent : MonoBehaviour
             BeginInfection();
         }
     }
+    //private void Update()
+    //{
+    //    Tick();
+    //}
 
     void UpdateGraphics()
     {
         if (susceptible > 0 && infected == 0)
         {
             renderer.color = Color.green;
-            stop = true;
             return;
         }
 
@@ -58,42 +60,36 @@ public class VirusComponent : MonoBehaviour
         if(susceptible == 0 && infected == 0)
         {
             //renderer.color = Color.green;
-            percent = killed / (float)immune;
-            renderer.color = Color.white * (1 - percent) + (Color.blue * percent);
+            float tempImmune = immune;
+            if (tempImmune <= 0) tempImmune = 1;
+            percent = killed / (float)tempImmune;
+            renderer.color = new Color(1 - percent, 1 - percent, 1 - percent,1) + (new Color(0,0,percent,1));
         }
     }
 
     public void Tick()
     {
-        if (stop)
-        {
-            if(infected <= 0)
-                return;
-        }
+        //if (stop)
+        //{
+        //    if(infected <= 0)
+        //        return;
+        //}
 
-        //int numberToInfect = Mathf.RoundToInt(infected * virus.R);
         int numberToInfect = Mathf.RoundToInt( Random.Range(0,infected * virus.R) );
         Infect(numberToInfect);
-        infectedBuffer.Enqueue(numberToInfect);
+        //infectedBuffer.Enqueue(numberToInfect);
 
         if (tick > virus.incubationPeriod)
         {
-            int numberToDefect;
-            if (infected > 100)
-            {
-                int dequeue = infectedBuffer.Dequeue();
-                numberToDefect = Mathf.RoundToInt(dequeue);
-            }
-            else
-                numberToDefect = infectedBuffer.Dequeue();
-            Defect(numberToDefect);
+            //Defect(infectedBuffer.Dequeue());
+            Defect(Mathf.RoundToInt( infected * 0.2f) +1);
         }
 
 
         // the higher the percentage of population infected, the more chance of transferring virus to another country
         float rng = Random.Range(0.0f,1.0f);
         float popInfectedPercentage = infected / (float) (countryReference.population - killed);
-        if (rng < popInfectedPercentage)// && popInfectedPercentage > 0.1f)
+        if (rng < popInfectedPercentage * 2)
         {
 
             Country c = countryComponent.GetRandomNeighbor();

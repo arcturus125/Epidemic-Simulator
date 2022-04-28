@@ -12,5 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 768879516aa4aac4eac8f114997fc56e, type: 3}
   m_Name: China
   m_EditorClassIdentifier: 
+  gameObject: {fileID: 0}
   countryName: China
-  population: 1448471000
+  population: 144847100

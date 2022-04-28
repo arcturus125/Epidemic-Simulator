@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: PlayerVirus
   m_EditorClassIdentifier: 
   virusName: Player Virus
-  R: 0.6
-  fatalityRate: 0.027
+  R: 1.2
+  fatalityRate: 0.2
   chanceOfRecurrance: 0.8
-  incubationPeriod: 5
+  incubationPeriod: 1
   colour: {r: 1, g: 0, b: 0, a: 1}
