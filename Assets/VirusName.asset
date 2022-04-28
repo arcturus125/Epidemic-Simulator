@@ -10,11 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6a6f3160e7df07e4b9e75af8b2e3994e, type: 3}
-  m_Name: PlayerVirus
+  m_Name: VirusName
   m_EditorClassIdentifier: 
-  virusName: Player Virus
-  R: 0.6
-  fatalityRate: 0.027
-  chanceOfRecurrance: 0.8
-  incubationPeriod: 5
-  colour: {r: 1, g: 0, b: 0, a: 1}
+  virusName: enemy virus
+  R: 1.01
+  fatalityRate: 0.025
+  chanceOfRecurrance: 0.884
+  incubationPeriod: 2
+  noDefectionRate: 0
+  colour: {r: 0, g: 1, b: 0.85213137, a: 1}
