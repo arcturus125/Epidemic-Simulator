@@ -4,7 +4,12 @@ using UnityEngine;
 
 public class VirusComponent : MonoBehaviour
 {
+    static Color defaultColour = new Color(209,219,221);
+    const int StartInfectionNumber = 10;
+    const float timestep = 0.2f;
+
     public Country countryReference;
+    public CountryComponent countryComponent;
     public Virus virus;
 
     [SerializeField] int susceptible;
@@ -17,18 +22,31 @@ public class VirusComponent : MonoBehaviour
     public Queue<int> infectedBuffer = new Queue<int>();
     SpriteRenderer renderer;
 
+    public bool beginInfection = false;
+    public void BeginInfection()
+    {
+        Infect(StartInfectionNumber);
+    }
+
     private void Start()
     {
         susceptible = countryReference.population;
-        InvokeRepeating("Tick", 1, 1);
+        InvokeRepeating("Tick", timestep, timestep);
         renderer = GetComponent<SpriteRenderer>();
+        if (beginInfection)
+            BeginInfection();
     }
 
     void UpdateGraphics()
     {
         int total = infected + killed;
         float percent = total / (float)countryReference.population;
-        renderer.color = new Color(percent,percent,percent,1) * virus.colour;
+        renderer.color = Color.white * (1-percent) + (virus.colour * percent);
+
+        if(susceptible == 0 && infected == 0)
+        {
+            renderer.color = Color.green;
+        }
     }
 
     public void Tick()
@@ -44,6 +62,14 @@ public class VirusComponent : MonoBehaviour
         }
 
         tick++;
+
+        Country c =  countryComponent.GetRandomNeighbor();
+        CountryComponent otherCountry = c.gameObject.GetComponent<CountryComponent>();
+        if (!otherCountry.DoesCountryContainVirus(virus))
+            otherCountry.InfectCountry(virus);
+        else
+            otherCountry.ReinfectCountry(virus);
+
         UpdateGraphics();
     }
 
@@ -64,16 +90,34 @@ public class VirusComponent : MonoBehaviour
     {
         float rng = Random.Range(0.0f, 1.0f);
         //death
-        if(rng < virus.fatalityRate)
+        if (rng < virus.fatalityRate)
         {
             Kill(numberToDefect);
         }
-        //immune
+        //no death
         else
         {
-            Immunize(numberToDefect);
+            rng = Random.Range(0.0f, 1.0f);
+            if (rng < virus.chanceOfRecurrance)
+            {
+                // person may become infected again
+                if (infected > numberToDefect)
+                {
+                    infected -= numberToDefect;
+                    susceptible += numberToDefect;
+                }
+                else
+                {
+                    susceptible += infected;
+                    infected = 0;
+                }
+            }
+            else
+            {
+                // person become completely immune to reinfection of this virus
+                Immunize(numberToDefect);
+            }
         }
-
     }
     void Kill(int numberToKill)
     {

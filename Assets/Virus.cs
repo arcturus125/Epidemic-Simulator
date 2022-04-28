@@ -7,8 +7,11 @@ public class Virus : ScriptableObject
 {
     // data
     public string virusName;
-    public int R;
+    public float R;
+    [Range(0.0f,1.0f)]
     public float fatalityRate;
+    [Range(0.0f, 1.0f)]
+    public float chanceOfRecurrance;
     public int incubationPeriod;
 
     // visuals

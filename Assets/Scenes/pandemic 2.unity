@@ -298,7 +298,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: d462f9791e75d1448853bfd4d1a4d106, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: c85d41ea8e32306498ba8f76731072ed, type: 2}
@@ -452,7 +451,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 99a70360369e43c449e3c18161c1f800, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 00dc2d6ea26db204bac5b8d99b2789d4, type: 2}
@@ -615,7 +613,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 7f81a9ba26b262d478a17a8da60afc1d, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 8ce277c929c97d247b9af92ab1fa7af4, type: 2}
@@ -756,7 +753,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 8e8f928d6239a6b4c84141b88c06ca28, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 6b46d800140b52c4a81c6b619b219c67, type: 2}
@@ -992,7 +988,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 064705006bf8312479f76e46af7098f4, type: 2}
   landNeighbors: []
   seaNeighbors:
@@ -1146,7 +1141,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 86bc35f66d0b25045986190d67354303, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 625c18a1858f0b048998ccde83ca42ac, type: 2}
@@ -1291,7 +1285,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: fd460f5434bb24b40b098f5e04824b9b, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: d462f9791e75d1448853bfd4d1a4d106, type: 2}
@@ -1434,7 +1427,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 5985c98ad5b74804ba2e0f9d02a90522, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: fe7a7702ecb84ee438811e86b8af1288, type: 2}
@@ -1582,7 +1574,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 658e6873a3c459541b1091f11c953ee8, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: f33cf150d067d804b94852b700218a02, type: 2}
@@ -1722,7 +1713,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 264f0e88499682d46aa22da0e11433cc, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: bdabc54f01b4a914087f23c8d6dc10c7, type: 2}
@@ -1889,7 +1879,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 72c251a6f229aeb43a67e6ebc8947d27, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 951406e0621c9fa49988cae3b8695ef5, type: 2}
@@ -2042,7 +2031,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 24c3e5c6255968d498d1d6f422861cc1, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: d8a139e2d7a82b94c9226afae5def8a9, type: 2}
@@ -2217,7 +2205,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 0d43fdfbf019ff942b5707eabd3a162a, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 72a2e2f08b361334288af7a246f279ef, type: 2}
@@ -2369,7 +2356,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 41b0803de5676f04ab54133f63c0e155, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: c88180b54e419f24183c846fb7dea67b, type: 2}
@@ -2515,7 +2501,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: f2ebaed1919b1ff44a85564dadd9cbe4, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 81849c450fefacb40b13e7a306632b74, type: 2}
@@ -2676,7 +2661,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 45bbadfa23646304eb0ba5bc968f4fa3, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: e0c1c8f70f81b0b438fd40de48664eef, type: 2}
@@ -2850,7 +2834,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 4ce660157ea439548835e9ea705e7ed7, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 523cfb7eccaae314bb6e99da446227c3, type: 2}
@@ -2998,7 +2981,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 5a81c2126db4ba947a4522e4ecb2bc92, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 220e881893e156045a9ff3467344ecd5, type: 2}
@@ -3167,7 +3149,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 2eb22c2d1499d4845ad7f51d2dd03a06, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 4b35883e0add80a45a27120159fbea41, type: 2}
@@ -3334,7 +3315,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 42e881c6673210343aec2a502b6e7149, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: a17ff9958c7384c468feef48570eeb0b, type: 2}
@@ -3494,7 +3474,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 4b35883e0add80a45a27120159fbea41, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 2eb22c2d1499d4845ad7f51d2dd03a06, type: 2}
@@ -3648,7 +3627,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: d6462342bffaece4286d48dbb4c6989b, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: caf97245f7d3f1d4ba02e7f1362a9cdd, type: 2}
@@ -4249,7 +4227,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: fc06ad205f754564db9e0307ff305cef, type: 2}
   landNeighbors: []
   seaNeighbors:
@@ -4406,7 +4383,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: b13339a9dc2f71a4d89a90689897ff2b, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: f4bb2b4486bed0e4d8b5dd1acd99f15c, type: 2}
@@ -4546,7 +4522,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 3ffb5cb50fe550d45acb71e540574ff9, type: 2}
   landNeighbors: []
   seaNeighbors:
@@ -6090,7 +6065,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: e0c1c8f70f81b0b438fd40de48664eef, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 25327dcf41c55b44485d613fd14ccfa7, type: 2}
@@ -6262,7 +6236,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: d99478a917a5cf645ba31957cf90c1ac, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: e0c1c8f70f81b0b438fd40de48664eef, type: 2}
@@ -6506,7 +6479,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 6955a5194b178cf4da580cedb024f27d, type: 2}
   landNeighbors: []
   seaNeighbors:
@@ -6699,7 +6671,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 897150cad4cc9194d89ca7ad386d1da9, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: f529499bbffc7a04fa661e10e493bc7d, type: 2}
@@ -6849,7 +6820,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: f4bb2b4486bed0e4d8b5dd1acd99f15c, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: c3e4e344e8470b140905f86f991ca29d, type: 2}
@@ -6989,7 +6959,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 0a8d9ae53653bb24f9b2f2033b8bff6a, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 1a837798e6b07ce4e977c44c2bcd4949, type: 2}
@@ -7164,7 +7133,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 72a2e2f08b361334288af7a246f279ef, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 6b46d800140b52c4a81c6b619b219c67, type: 2}
@@ -7175,6 +7143,52 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 581de35c20d283b40b51902b9ec04170, type: 2}
   - {fileID: 11400000, guid: c88180b54e419f24183c846fb7dea67b, type: 2}
   seaNeighbors: []
+--- !u!1 &344329603
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 344329605}
+  - component: {fileID: 344329604}
+  m_Layer: 0
+  m_Name: GameStart
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &344329604
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 344329603}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f994159d2e94ba40a8805f34106f500, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  startingCountry: {fileID: 200134533}
+  playerVirus: {fileID: 11400000, guid: 611be5596f08c724aa4bb7d776a17b59, type: 2}
+--- !u!4 &344329605
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 344329603}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.6100602, y: 3.7680645, z: 0.5917293}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &352898832
 GameObject:
   m_ObjectHideFlags: 0
@@ -7326,7 +7340,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 5ecec5321fcfebf468659923b4cd993b, type: 2}
   landNeighbors: []
   seaNeighbors:
@@ -7473,7 +7486,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 5ed100bc85651004e96c9313b2edaf98, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 766b88644f2b5c9478649675f2a66e69, type: 2}
@@ -7655,7 +7667,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 506dc0f870bfc994796547021ba87910, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: e0c1c8f70f81b0b438fd40de48664eef, type: 2}
@@ -7812,7 +7823,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: e929713cffb36a94faea5f333e9b004c, type: 2}
   landNeighbors: []
   seaNeighbors:
@@ -7961,7 +7971,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 174f6518787eb9144898a7c8244e52dc, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 5a696bbbfdb5fb14db01aa4cde29e4ac, type: 2}
@@ -8109,7 +8118,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: d7baa5dd7244f204d83830038b7d0af6, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 12dbe8a96aa9e124e89346bc8a3dcc5b, type: 2}
@@ -8410,7 +8418,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: d8a139e2d7a82b94c9226afae5def8a9, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 24c3e5c6255968d498d1d6f422861cc1, type: 2}
@@ -8562,7 +8569,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 773ccc695c372a241920802ff8e37c93, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 82f932243ddb98e4b874312c91f4471f, type: 2}
@@ -8701,7 +8707,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 676ad78f29330714b8e98c3ccc0e1cd8, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: a0676a1b8fbfbdb4bb3723bb188e14f5, type: 2}
@@ -8836,7 +8841,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: eced5dcb8831682438659b821a45404b, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: c85d41ea8e32306498ba8f76731072ed, type: 2}
@@ -8997,7 +9001,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: d5e2823aa786c914fbcd3ffe4a3a5c4f, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: de7f4dda60960134aab13a8662796339, type: 2}
@@ -9137,7 +9140,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 1e5f46e2b1794d5478246df063f94b40, type: 2}
   landNeighbors: []
   seaNeighbors:
@@ -9277,7 +9279,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: c85d41ea8e32306498ba8f76731072ed, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 5ba11e3c90e623a49b08f15022bc92ab, type: 2}
@@ -9513,7 +9514,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: a6c5aa460cb57fa47bde040ad7a572b9, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 2cff78ed4ed4985439a665ac5b48c666, type: 2}
@@ -9672,7 +9672,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: f529499bbffc7a04fa661e10e493bc7d, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 467f57d835f512c42adecc7e2ffd4b7c, type: 2}
@@ -9860,7 +9859,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 05aec3b08ef5f7846892dd107406737e, type: 2}
   landNeighbors: []
   seaNeighbors:
@@ -10001,7 +9999,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: ee03c5ac8f91bd849bd430eacdfa855f, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: d0bb61becbad18045b4200f658304ef5, type: 2}
@@ -10140,7 +10137,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 56d80f401bff6194785c509d8232b151, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 1a837798e6b07ce4e977c44c2bcd4949, type: 2}
@@ -10279,7 +10275,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 7b98d29555341d6408cd11ea81fb141d, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 67f28371c1335584a95412fd51b403b9, type: 2}
@@ -10435,7 +10430,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: f33cf150d067d804b94852b700218a02, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 0d0c11595cdacf548b2bae47a505ecf4, type: 2}
@@ -10626,7 +10620,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 07981746c70bc414888a3d5cda1f4e92, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 0027d5aba05b03d46ba2e72940fb5d2e, type: 2}
@@ -10803,7 +10796,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: c1d66d377c8eab04cb9aa66f88d483ce, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: b13339a9dc2f71a4d89a90689897ff2b, type: 2}
@@ -10967,7 +10959,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 8ce277c929c97d247b9af92ab1fa7af4, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: d5e2823aa786c914fbcd3ffe4a3a5c4f, type: 2}
@@ -11126,7 +11117,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: f4fa76105890a4e4b99828bcba18ee77, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 00a1193dd0dd8484ab3912accd9bd3b4, type: 2}
@@ -11297,7 +11287,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: c88180b54e419f24183c846fb7dea67b, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 438548ffbfb1aec41b20e6dad3ae7371, type: 2}
@@ -11446,7 +11435,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: c58cfb160437ff440961a1176a4a0f53, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: d75c41a7c1bf68f449088d991184f104, type: 2}
@@ -11591,7 +11579,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 00893ad6a1230954785cb0da0f3a5e75, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 07981746c70bc414888a3d5cda1f4e92, type: 2}
@@ -11742,7 +11729,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 00dc2d6ea26db204bac5b8d99b2789d4, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 03018d802ab4b5e4795ada40c1cf5a53, type: 2}
@@ -11882,7 +11868,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: b65308a99e3c34347932d3629c70f4a3, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 6ab4e5d675889894e9a13e87866b61ce, type: 2}
@@ -12027,7 +12012,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 2513e9ec72281a7499855de7110424cb, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 3f67ac8aae639f04a8d4194b17afd899, type: 2}
@@ -12172,7 +12156,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 5ba11e3c90e623a49b08f15022bc92ab, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 2eb22c2d1499d4845ad7f51d2dd03a06, type: 2}
@@ -12313,7 +12296,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 756c55a99be296c4db5cfedfab285b7a, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: c0b0d988cf2218e488182e7d60a5c993, type: 2}
@@ -12454,7 +12436,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 6b46d800140b52c4a81c6b619b219c67, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 658e6873a3c459541b1091f11c953ee8, type: 2}
@@ -12883,7 +12864,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 25327dcf41c55b44485d613fd14ccfa7, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: e0c1c8f70f81b0b438fd40de48664eef, type: 2}
@@ -13029,7 +13009,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 137f39c4c86c5424ebdaae1d021eb4aa, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 12dbe8a96aa9e124e89346bc8a3dcc5b, type: 2}
@@ -13183,7 +13162,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: f50a56b49e81a6945a041f4b2934704b, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: c79ae0753848d3e4194774622eb75477, type: 2}
@@ -13327,7 +13305,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 82f932243ddb98e4b874312c91f4471f, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 8ce277c929c97d247b9af92ab1fa7af4, type: 2}
@@ -13467,7 +13444,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: d0bb61becbad18045b4200f658304ef5, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: ee03c5ac8f91bd849bd430eacdfa855f, type: 2}
@@ -13645,7 +13621,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 59f468710c1938e42a211875ea8f3f1c, type: 2}
   landNeighbors: []
   seaNeighbors:
@@ -13797,7 +13772,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: c216f2cbf8e891240b0c0a791a03fce3, type: 2}
   landNeighbors: []
   seaNeighbors:
@@ -13939,7 +13913,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 9c45df3e1c84c2c4a9004ae28baca4de, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: de7f4dda60960134aab13a8662796339, type: 2}
@@ -14231,7 +14204,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: a17ff9958c7384c468feef48570eeb0b, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: e0c1c8f70f81b0b438fd40de48664eef, type: 2}
@@ -14371,7 +14343,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 18f6d74058a90924893e840770ff160b, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 5a696bbbfdb5fb14db01aa4cde29e4ac, type: 2}
@@ -14431,7 +14402,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 13.74
+  orthographic size: 18.09
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -14597,7 +14568,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: f2e84d008b1196541a3c40d52a53953e, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: c0b0d988cf2218e488182e7d60a5c993, type: 2}
@@ -14739,7 +14709,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: bdabc54f01b4a914087f23c8d6dc10c7, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 398708054e71fdf4eb31c69f8bb39a88, type: 2}
@@ -14919,7 +14888,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 00a06da169232a04e8398391a7deecb4, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: a17ff9958c7384c468feef48570eeb0b, type: 2}
@@ -15268,7 +15236,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 5a696bbbfdb5fb14db01aa4cde29e4ac, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 174f6518787eb9144898a7c8244e52dc, type: 2}
@@ -15466,7 +15433,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 951406e0621c9fa49988cae3b8695ef5, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: a17ff9958c7384c468feef48570eeb0b, type: 2}
@@ -15617,7 +15583,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 581de35c20d283b40b51902b9ec04170, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 72a2e2f08b361334288af7a246f279ef, type: 2}
@@ -15773,7 +15738,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 00a1193dd0dd8484ab3912accd9bd3b4, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: b65308a99e3c34347932d3629c70f4a3, type: 2}
@@ -15928,7 +15892,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: c919d95a8b20e0e42a793c74fa2a46ac, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 4ce660157ea439548835e9ea705e7ed7, type: 2}
@@ -16080,7 +16043,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 7210e77510fa13441af3cb6921112324, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: c79ae0753848d3e4194774622eb75477, type: 2}
@@ -16234,7 +16196,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 12dbe8a96aa9e124e89346bc8a3dcc5b, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 137f39c4c86c5424ebdaae1d021eb4aa, type: 2}
@@ -16515,7 +16476,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: c79ae0753848d3e4194774622eb75477, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: c5e8f1850a64d7245a5bcd8ec56dfea1, type: 2}
@@ -16663,7 +16623,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 68b55b1323ee41c429dac66db7d65e91, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 6635db4f6e694a84d91230f4c70eefe1, type: 2}
@@ -16806,7 +16765,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: f86daa8845895f84882cd2d5ae8bdb21, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 74cb8d0fbae16f0419f42f738c1d89dd, type: 2}
@@ -16957,7 +16915,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: d6564271a41705b4e9da8333e8df1cab, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: e0c1c8f70f81b0b438fd40de48664eef, type: 2}
@@ -17113,7 +17070,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 507a3208615797945977ca450fa12d09, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 8ce277c929c97d247b9af92ab1fa7af4, type: 2}
@@ -17279,7 +17235,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 32cdd5a2993312a41bf98942c1edb791, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: ae5cdca6a28da4845866c393d87421f2, type: 2}
@@ -17442,7 +17397,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: d22b36bb91d59fd4180738f3ad5f1659, type: 2}
   landNeighbors: []
   seaNeighbors:
@@ -17583,7 +17537,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 03018d802ab4b5e4795ada40c1cf5a53, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: eb32ac60a90ede145bf80017acce529f, type: 2}
@@ -17753,7 +17706,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 6fe5b1e638dca98408e9d60731124055, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 472c30fe1adb8a54386e85f94037f485, type: 2}
@@ -17890,7 +17842,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 457b4468656fee94aa8090afc10cd419, type: 2}
   landNeighbors: []
   seaNeighbors:
@@ -18032,7 +17983,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 7690e14e925f6244790abe204c329d3e, type: 2}
   landNeighbors: []
   seaNeighbors:
@@ -18168,7 +18118,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: ea5522dc2c53b604397c9948c2af6e37, type: 2}
   landNeighbors: []
   seaNeighbors:
@@ -18315,7 +18264,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 6635db4f6e694a84d91230f4c70eefe1, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: d6564271a41705b4e9da8333e8df1cab, type: 2}
@@ -18481,7 +18429,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 2be0f8a5df0259b4791f5824bbc7fea1, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 6b86010b8433f71409780fd7180b2d6c, type: 2}
@@ -18622,7 +18569,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: a70509ec8147133439c997bf1a0d6e68, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: f2e84d008b1196541a3c40d52a53953e, type: 2}
@@ -18773,7 +18719,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 6ab4e5d675889894e9a13e87866b61ce, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 0d0c11595cdacf548b2bae47a505ecf4, type: 2}
@@ -18941,7 +18886,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: ace8859fbae3f764390e3b7125d2215b, type: 2}
   landNeighbors: []
   seaNeighbors:
@@ -19213,7 +19157,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 523cfb7eccaae314bb6e99da446227c3, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: fe7a7702ecb84ee438811e86b8af1288, type: 2}
@@ -19393,7 +19336,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: f31e42ace0b381845afb6eb2d703f6da, type: 2}
   landNeighbors: []
   seaNeighbors:
@@ -19542,7 +19484,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 74cb8d0fbae16f0419f42f738c1d89dd, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 467f57d835f512c42adecc7e2ffd4b7c, type: 2}
@@ -19727,7 +19668,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 6b86010b8433f71409780fd7180b2d6c, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: b238e0de6dd79da419e78881565d10da, type: 2}
@@ -19940,7 +19880,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 998c28399f0113349a77835d3e780796, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 4b35883e0add80a45a27120159fbea41, type: 2}
@@ -20143,7 +20082,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 467f57d835f512c42adecc7e2ffd4b7c, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 74cb8d0fbae16f0419f42f738c1d89dd, type: 2}
@@ -20285,7 +20223,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 7eedd2f88ca281540ba8ef9f1fbe94b9, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: f529499bbffc7a04fa661e10e493bc7d, type: 2}
@@ -20443,7 +20380,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: ae5cdca6a28da4845866c393d87421f2, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: bdabc54f01b4a914087f23c8d6dc10c7, type: 2}
@@ -20604,7 +20540,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 238f15fae44980c4fbe5b54f91ad5386, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 5a696bbbfdb5fb14db01aa4cde29e4ac, type: 2}
@@ -20793,7 +20728,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 1b265b7636d774846823633a455d89f5, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 5dd77c60111a79b498ac7603e1e1be35, type: 2}
@@ -20932,7 +20866,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 8c97e1005732f06419b44edb4bb9c037, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 0d43fdfbf019ff942b5707eabd3a162a, type: 2}
@@ -21090,7 +21023,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 14b4e22d63162104c8063806c59c2d59, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 3f67ac8aae639f04a8d4194b17afd899, type: 2}
@@ -21244,7 +21176,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: b238e0de6dd79da419e78881565d10da, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 6b86010b8433f71409780fd7180b2d6c, type: 2}
@@ -21388,7 +21319,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: de7f4dda60960134aab13a8662796339, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 9c45df3e1c84c2c4a9004ae28baca4de, type: 2}
@@ -21570,7 +21500,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 2223e7330718847469b3887f848ec66b, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: e800555a04a4eb641a6bbe39fed7016c, type: 2}
@@ -22178,7 +22107,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: a5d3b7fffcee8604192bfe0dc4d3d150, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 6b338da8b593065439405b01424b5610, type: 2}
@@ -22325,7 +22253,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: d644aa403335fb04783539a7c65a575a, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: c1d66d377c8eab04cb9aa66f88d483ce, type: 2}
@@ -22477,7 +22404,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 81849c450fefacb40b13e7a306632b74, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: d75c41a7c1bf68f449088d991184f104, type: 2}
@@ -22625,7 +22551,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: bb80526a28f677944882adfbec8f1789, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: d462f9791e75d1448853bfd4d1a4d106, type: 2}
@@ -23150,7 +23075,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 2cff78ed4ed4985439a665ac5b48c666, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: a6c5aa460cb57fa47bde040ad7a572b9, type: 2}
@@ -23438,8 +23362,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
-  country: {fileID: 0}
+  country: {fileID: 11400000, guid: 6e5a18373bcd1a148a61f91a759c356f, type: 2}
   landNeighbors: []
   seaNeighbors:
   - {fileID: 11400000, guid: 05aec3b08ef5f7846892dd107406737e, type: 2}
@@ -23642,7 +23565,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 6fa53873dee43fd4fa27c37de524a851, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: e0c1c8f70f81b0b438fd40de48664eef, type: 2}
@@ -23785,7 +23707,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: b1b623ac76d98fd4a8e849d7c1392882, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: e0c1c8f70f81b0b438fd40de48664eef, type: 2}
@@ -24001,7 +23922,7 @@ Transform:
   - {fileID: 629836205}
   - {fileID: 150271910}
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1521000368
 GameObject:
@@ -24171,7 +24092,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 0cb9565fcff2d8844bb630977077cc1a, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 237d16a37be76904fbfde2e1ffe62cf1, type: 2}
@@ -24339,7 +24259,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 0d0c11595cdacf548b2bae47a505ecf4, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: ae5cdca6a28da4845866c393d87421f2, type: 2}
@@ -24484,7 +24403,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 8cf7047b795670048b47fe924b25b2d7, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 00dc2d6ea26db204bac5b8d99b2789d4, type: 2}
@@ -24653,7 +24571,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 67d226c4d23d69b4eb671533e7da00a9, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 438548ffbfb1aec41b20e6dad3ae7371, type: 2}
@@ -24792,7 +24709,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 1518c8a6c9c6ac346bc4bde26d3b2c88, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: b1b623ac76d98fd4a8e849d7c1392882, type: 2}
@@ -24955,7 +24871,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 4613219c1a12b224c9f7d5fab8e939ca, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 6ab4e5d675889894e9a13e87866b61ce, type: 2}
@@ -25140,7 +25055,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: c5e8f1850a64d7245a5bcd8ec56dfea1, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 897150cad4cc9194d89ca7ad386d1da9, type: 2}
@@ -25299,7 +25213,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: be1de5c448f3d9148a1486ac8b55dbad, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 951406e0621c9fa49988cae3b8695ef5, type: 2}
@@ -25438,7 +25351,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 1a837798e6b07ce4e977c44c2bcd4949, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 00dc2d6ea26db204bac5b8d99b2789d4, type: 2}
@@ -25593,7 +25505,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 0aa04d0d22e6c1d45897378221c85228, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: b0fd5e64d0cd66441a792ce81f147ade, type: 2}
@@ -25731,7 +25642,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 78832e2b019624246ad4bc8f5b1df91e, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: d462f9791e75d1448853bfd4d1a4d106, type: 2}
@@ -25883,7 +25793,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 625c18a1858f0b048998ccde83ca42ac, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 99a70360369e43c449e3c18161c1f800, type: 2}
@@ -26047,7 +25956,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: b0fd5e64d0cd66441a792ce81f147ade, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 67d226c4d23d69b4eb671533e7da00a9, type: 2}
@@ -26198,7 +26106,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: e5c5975842620054591ccc963952a3a3, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 174f6518787eb9144898a7c8244e52dc, type: 2}
@@ -26344,7 +26251,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 4cdfce1e2005b4f4f947efd3660979bb, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 523cfb7eccaae314bb6e99da446227c3, type: 2}
@@ -26482,7 +26388,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 27d3cbb429450e7458c9a89ad436729e, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 17bcb1fd9332f894092735267b439df9, type: 2}
@@ -26634,7 +26539,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 1511914c77d3cf4408300b81bb24b540, type: 2}
   landNeighbors: []
   seaNeighbors:
@@ -26799,7 +26703,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: e800555a04a4eb641a6bbe39fed7016c, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 5dd77c60111a79b498ac7603e1e1be35, type: 2}
@@ -26967,7 +26870,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 67f28371c1335584a95412fd51b403b9, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 0cb9565fcff2d8844bb630977077cc1a, type: 2}
@@ -27194,7 +27096,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: fd75574e44243e8429398799c50dcd99, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 885b0f5d7343525479722c8235c75937, type: 2}
@@ -27337,7 +27238,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: a2dddeb895d39e444804a3e9f0b38d25, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 766b88644f2b5c9478649675f2a66e69, type: 2}
@@ -27475,7 +27375,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 7d515f23b6ac7fa48b142b1e891c346b, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 5a696bbbfdb5fb14db01aa4cde29e4ac, type: 2}
@@ -27616,7 +27515,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: caf97245f7d3f1d4ba02e7f1362a9cdd, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 220e881893e156045a9ff3467344ecd5, type: 2}
@@ -27800,7 +27698,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: eb32ac60a90ede145bf80017acce529f, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: d462f9791e75d1448853bfd4d1a4d106, type: 2}
@@ -28028,7 +27925,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: c0b0d988cf2218e488182e7d60a5c993, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: a5d3b7fffcee8604192bfe0dc4d3d150, type: 2}
@@ -28169,7 +28065,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 6eb118881edf7a748ab17d611c79fee0, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 0a8d9ae53653bb24f9b2f2033b8bff6a, type: 2}
@@ -29988,7 +29883,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 6b338da8b593065439405b01424b5610, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: a5d3b7fffcee8604192bfe0dc4d3d150, type: 2}
@@ -30180,7 +30074,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: a0676a1b8fbfbdb4bb3723bb188e14f5, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: b0fd5e64d0cd66441a792ce81f147ade, type: 2}
@@ -30319,7 +30212,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 8d960696b421064479061bd32532fab7, type: 2}
   landNeighbors: []
   seaNeighbors:
@@ -30472,7 +30364,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 3f67ac8aae639f04a8d4194b17afd899, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 2513e9ec72281a7499855de7110424cb, type: 2}
@@ -30668,7 +30559,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 438548ffbfb1aec41b20e6dad3ae7371, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 507a3208615797945977ca450fa12d09, type: 2}
@@ -30913,7 +30803,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 233ecef82b34e354e92964b6d8c740c9, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: c886d02e9cdd9ba4fb9a3e1671cc74de, type: 2}
@@ -31288,7 +31177,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: c886d02e9cdd9ba4fb9a3e1671cc74de, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 233ecef82b34e354e92964b6d8c740c9, type: 2}
@@ -31430,7 +31318,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 7dbab5bfd2c948846b18f13c85c93f57, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 523cfb7eccaae314bb6e99da446227c3, type: 2}
@@ -31567,7 +31454,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 398708054e71fdf4eb31c69f8bb39a88, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 74cb8d0fbae16f0419f42f738c1d89dd, type: 2}
@@ -31715,7 +31601,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: d75c41a7c1bf68f449088d991184f104, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 2eb22c2d1499d4845ad7f51d2dd03a06, type: 2}
@@ -31924,7 +31809,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 83d569b27c506bc4a8f955b994438989, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 0a8d9ae53653bb24f9b2f2033b8bff6a, type: 2}
@@ -32076,7 +31960,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 5d8a067a9e89e624ab8ceef938af6b6a, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 5dd77c60111a79b498ac7603e1e1be35, type: 2}
@@ -32228,7 +32111,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: c3e4e344e8470b140905f86f991ca29d, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 6b86010b8433f71409780fd7180b2d6c, type: 2}
@@ -32373,7 +32255,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 766b88644f2b5c9478649675f2a66e69, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 5ed100bc85651004e96c9313b2edaf98, type: 2}
@@ -32543,7 +32424,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 885b0f5d7343525479722c8235c75937, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: fd75574e44243e8429398799c50dcd99, type: 2}
@@ -32687,7 +32567,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 220e881893e156045a9ff3467344ecd5, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 5a81c2126db4ba947a4522e4ecb2bc92, type: 2}
@@ -32867,7 +32746,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 5dd77c60111a79b498ac7603e1e1be35, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 5d8a067a9e89e624ab8ceef938af6b6a, type: 2}
@@ -33019,7 +32897,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 472c30fe1adb8a54386e85f94037f485, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 0cb9565fcff2d8844bb630977077cc1a, type: 2}
@@ -33160,7 +33037,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 60dff4a94ac3d464d9d458b12a243adf, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: d6462342bffaece4286d48dbb4c6989b, type: 2}
@@ -33319,7 +33195,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 0027d5aba05b03d46ba2e72940fb5d2e, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: e0c1c8f70f81b0b438fd40de48664eef, type: 2}
@@ -33459,7 +33334,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: fe7a7702ecb84ee438811e86b8af1288, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 5985c98ad5b74804ba2e0f9d02a90522, type: 2}
@@ -33636,7 +33510,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 237d16a37be76904fbfde2e1ffe62cf1, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: f50a56b49e81a6945a041f4b2934704b, type: 2}
@@ -33802,7 +33675,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 5de928547506ebd4ca836f838024f454, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 32cdd5a2993312a41bf98942c1edb791, type: 2}
@@ -33943,7 +33815,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 4c7d57ab7b9ee864887690973c49fc98, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: 17bcb1fd9332f894092735267b439df9, type: 2}
@@ -34123,7 +33994,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8ac2aaaa5e72d47aca6dcad80845e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameobject: {fileID: 0}
   country: {fileID: 11400000, guid: 17bcb1fd9332f894092735267b439df9, type: 2}
   landNeighbors:
   - {fileID: 11400000, guid: f86daa8845895f84882cd2d5ae8bdb21, type: 2}
